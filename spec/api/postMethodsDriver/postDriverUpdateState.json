@@ -1,0 +1,14 @@
+[
+	{
+		"imei_number":866392021956945,
+		"driver_id":175,
+		"state":"on-duty",
+		"booking_id":"B22969EC"
+	},
+	{
+		"imei_number":353380071107600,
+		"driver_id":358,
+                "state":"at-point",
+                "booking_id":"CEFB8331"
+	}
+]
